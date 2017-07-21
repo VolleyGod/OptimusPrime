@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to the Optimus Prime Help Website
 
-You can use the [editor on GitHub](https://github.com/VolleyGod/OptimusPrime/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can join the [support server](https://github.com/VolleyGod/OptimusPrime/edit/master/README.md) For further help or to report bugs and such.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### THIS PAGE IS STILL UNDER CONSTRUCTION SO PLEASE BEAR WITH US. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Join the [support server](https://discord.me/knut) for help until further notice.
+And if you wish to invite my bot to your server [there you go](http://goo.gl/Bo2CdN)
 
-```markdown
-Syntax highlighted code block
+### Suggestions
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VolleyGod/OptimusPrime/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you would like to suggest something for the bots developement use ``%sug``. Join the [discord server](https://discord.me/knut) if you want to talk directly to the creator Volley God#7166
